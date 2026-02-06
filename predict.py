@@ -8,7 +8,7 @@ SAMPLE_RATE = 22050
 DURATION = 3.0
 N_MELS = 128
 TARGET_LENGTH = int(SAMPLE_RATE * DURATION)
-MODEL_PATH = 'best_model.keras'
+MODEL_PATH = 'emotion_model.keras'
 CLASSES_PATH = 'classes.npy'
 
 def clean_audio(y):
