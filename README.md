@@ -25,4 +25,6 @@ The model was evaluated on a strictly unseen test set (stratified 10% split).
 | **Overall Accuracy** | **98%** |
 | **Macro F1-Score** | **0.9801** |
 | **Male Speaker Accuracy** | 98% |
-| **Female Speaker Accuracy** |
+| **Female Speaker Accuracy** | 99% |
+
+*Conclusion: The minimal difference between Male and Female accuracy confirms that the model relies on emotional features rather than pitch.*|
